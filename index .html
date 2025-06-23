@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI in Canadian Healthcare</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #0066cc;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #004a99;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #003366;
+        }
+        section {
+            padding: 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+        h2 {
+            color: #0066cc;
+        }
+        footer {
+            background-color: #ddd;
+            text-align: center;
+            padding: 10px;
+            font-size: 0.9em;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Artificial Intelligence in Canadian Healthcare</h1>
+        <p>By Gurtej Singh | Student ID: 816467</p>
+    </header>
+
+    <nav>
+        <a href="#overview">Overview</a>
+        <a href="#applications">Applications</a>
+        <a href="#benefits">Benefits</a>
+        <a href="#challenges">Challenges</a>
+        <a href="#future">Future</a>
+    </nav>
+
+    <section id="overview">
+        <h2>Overview</h2>
+        <img src="images/overview.png" alt="AI Overview">
+        <p>Artificial Intelligence (AI) is revolutionizing the field of healthcare by enabling more accurate diagnostics, efficient treatment plans, and personalized patient care. In Canada, AI is being integrated into healthcare systems to address challenges such as long wait times, staff shortages, and rising costs. This website explores how AI is transforming healthcare delivery in Canada and the opportunities and concerns that come with it.</p>
+    </section>
+
+    <section id="applications">
+        <h2>AI Applications in Canadian Healthcare</h2>
+        <img src="images/canada.png" alt="AI Applications in Canadian Healthcare">
+        <ul>
+            <li>AI tools for early cancer detection and medical imaging</li>
+            <li>Virtual health assistants and chatbots for patient communication</li>
+            <li>AI-supported diagnosis systems in hospitals</li>
+            <li>Predictive analytics for managing hospital resources</li>
+        </ul>
+    </section>
+
+    <section id="benefits">
+        <h2>Benefits of AI in Healthcare</h2>
+        <ul>
+            <li>Faster and more accurate diagnosis</li>
+            <li>Improved patient outcomes and treatment personalization</li>
+            <li>Reduced wait times and better hospital efficiency</li>
+            <li>Enhanced support for healthcare professionals in decision-making</li>
+        </ul>
+    </section>
+
+    <section id="challenges">
+        <h2>Challenges and Ethical Concerns</h2>
+        <p>Despite its advantages, AI in healthcare raises important ethical and regulatory issues. These include:</p>
+        <ul>
+            <li>Patient data privacy and cybersecurity risks</li>
+            <li>Bias in AI algorithms based on training data</li>
+            <li>Transparency and accountability in automated decisions</li>
+            <li>Need for clear guidelines and industry standards</li>
+        </ul>
+    </section>
+
+    <section id="future">
+        <h2>The Future of AI in Healthcare</h2>
+        <img src="images/future.png" alt="Future of AI">
+        <p>Canada is actively investing in the responsible development of AI through initiatives such as the Pan-Canadian Artificial Intelligence Strategy. The future of healthcare in Canada will likely see AI-driven innovations in telemedicine, robotics, and genomics, improving access and quality of care for all Canadians.</p>
+    </section>
+
+    <footer>
+        <p>CSCI 101 Project | Columbia College | 2025</p>
+    </footer>
+</body>
+</html>
